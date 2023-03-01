@@ -12,4 +12,4 @@ button.addEventListener('click', () => {
 
 function randomNumber () {
     return Math.floor(Math.random() * colors.length);
-}
+} 

@@ -14,4 +14,4 @@ button.addEventListener('click', () => {
 
 function randomNumber () {
     return Math.floor(Math.random() * colorsHex.length);
-}
+} 
