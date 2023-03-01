@@ -10,6 +10,6 @@ button.addEventListener('click', () => {
     color.textContent = colors[random];
 });
 
-function randomNumber () {
+function randomNumber () { 
     return Math.floor(Math.random() * colors.length);
 } 

@@ -9,7 +9,7 @@ button.addEventListener('click', () => {
         hex += colorsHex[randomNumber()];  
     }
     document.body.style.backgroundColor = hex;
-    color.textContent = hex;
+    color.textContent = hex; 
 })
 
 function randomNumber () {
